@@ -1,0 +1,1 @@
+ansaksi[pil].barang[i].harga<<setw(15)<<transaksi[pil].barang[i].qty<<setw(15)<<transaksi[pil].barang[i].jumlah<<endl;

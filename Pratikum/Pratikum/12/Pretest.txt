@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+struct gudang
+{
+    string kode = "123";
+    string nama = "Buku tulis";
+    int Hargabeli = 1500;
+    int Hargajual = 2500;
+    int stok = 10;
+} gudang barang;
+int main()
+{
+    cout << "Kode Barang : " << barang.kode << endl;
+    cout << "Nama Barang : " << barang.nama << endl;
+    cout << "Stok Barang : " << barang.stok << endl;
+}

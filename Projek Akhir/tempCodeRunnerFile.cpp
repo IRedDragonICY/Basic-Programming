@@ -1,0 +1,1 @@
+ransaksi[i].no<<setw(20)<<transaksi[i].nama<<setw(20)<<transaksi[i].harga<<setw(20)<<transaksi[i].qty<<endl;;
